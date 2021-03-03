@@ -1,2 +1,2 @@
 # Frontend-Mentor-Challenges
-A repo for CHallenges solutions
+A repo for Challenges solutions
