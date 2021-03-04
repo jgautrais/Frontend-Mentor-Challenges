@@ -5,4 +5,4 @@
 - HTML&CSS
 - Flexbox
 
-Live preview --> https://fem-profile-card-compo.vercel.app/
+Live preview --> https://fem-profile-card-ashen.vercel.app/
