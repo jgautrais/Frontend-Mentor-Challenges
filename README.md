@@ -7,3 +7,4 @@ A repo for Challenges solutions
 - Social proof section : [fem_social_proof_section_master-main](https://github.com/jgautrais/Frontend-Mentor-Challenges/tree/main/fem_social_proof_section_master-main)
 - 4 cards feature section : [fem_4card_feature_section-main](https://github.com/jgautrais/Frontend-Mentor-Challenges/tree/main/fem_4card_feature_section-main)
 - Single price grid component : [single_price_grid_component](https://github.com/jgautrais/Frontend-Mentor-Challenges/tree/main/single_price_grid_component), [fem_single_price_grid](https://github.com/jgautrais/fem_single_price_grid)
+- Huddle landing page : [fem_huddle_landing_page](https://github.com/jgautrais/fem_huddle_landing_page)
