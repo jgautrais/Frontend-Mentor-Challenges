@@ -9,3 +9,4 @@ A repo for Challenges solutions
 - Single price grid component : [single_price_grid_component](https://github.com/jgautrais/Frontend-Mentor-Challenges/tree/main/single_price_grid_component), [fem_single_price_grid](https://github.com/jgautrais/fem_single_price_grid)
 - Huddle landing page : [fem_huddle_landing_page](https://github.com/jgautrais/fem_huddle_landing_page)
 - Testimonials grid section: [fem_testimonials_grid_section](https://github.com/jgautrais/fem_testimonials_grid_section)
+- Fylo storage component : [fem_fylo_storage](https://github.com/jgautrais/fem_fylo_storage)
