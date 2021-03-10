@@ -11,5 +11,5 @@ A repo for Challenges solutions
 - Testimonials grid section : [fem_testimonials_grid_section](https://github.com/jgautrais/fem_testimonials_grid_section)
 - Fylo storage component : [fem_fylo_storage](https://github.com/jgautrais/fem_fylo_storage)
 - Clipboard landing page : [fem_clipboard_landing_page](https://github.com/jgautrais/fem_clipboard_landing_page)
-- Huddle landing page with feature blocks :[fem_huddle_landing_page_features](https://github.com/jgautrais/fem_huddle_landing_page_features)
+- Huddle landing page with feature blocks : [fem_huddle_landing_page_features](https://github.com/jgautrais/fem_huddle_landing_page_features)
 
