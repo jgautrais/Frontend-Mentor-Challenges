@@ -12,4 +12,5 @@ A repo for Challenges solutions
 - Fylo storage component : [fem_fylo_storage](https://github.com/jgautrais/fem_fylo_storage)
 - Clipboard landing page : [fem_clipboard_landing_page](https://github.com/jgautrais/fem_clipboard_landing_page)
 - Huddle landing page with feature blocks : [fem_huddle_landing_page_features](https://github.com/jgautrais/fem_huddle_landing_page_features)
+- Fylo dark theme landing page : [fem_fylo_dark_theme_landing_page](https://github.com/jgautrais/fem_fylo_dark_theme_landing_page)
 
