@@ -13,4 +13,5 @@ A repo for Challenges solutions
 - Clipboard landing page : [fem_clipboard_landing_page](https://github.com/jgautrais/fem_clipboard_landing_page)
 - Huddle landing page with feature blocks : [fem_huddle_landing_page_features](https://github.com/jgautrais/fem_huddle_landing_page_features)
 - Fylo dark theme landing page : [fem_fylo_dark_theme_landing_page](https://github.com/jgautrais/fem_fylo_dark_theme_landing_page)
+- Fylo landing page with two columns layout : [fem_fylo_landing_page_two_cols](https://github.com/jgautrais/fem_fylo_landing_page_two_cols)
 
