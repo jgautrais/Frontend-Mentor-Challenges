@@ -14,5 +14,6 @@ A repo for Challenges solutions
 - Huddle landing page with feature blocks : [fem_huddle_landing_page_features](https://github.com/jgautrais/fem_huddle_landing_page_features)
 - Fylo dark theme landing page : [fem_fylo_dark_theme_landing_page](https://github.com/jgautrais/fem_fylo_dark_theme_landing_page)
 - Fylo landing page with two columns layout : [fem_fylo_landing_page_two_cols](https://github.com/jgautrais/fem_fylo_landing_page_two_cols)
-- Huudle landing page with curved sections : [fem_huddle_curved_sections](https://github.com/jgautrais/fem_huddle_curved_sections)
+- Huddle landing page with curved sections : [fem_huddle_curved_sections](https://github.com/jgautrais/fem_huddle_curved_sections)
+- Chat App CSS Illustration : [fem_chat_app_css](https://github.com/jgautrais/fem_chat_app_css)
 
