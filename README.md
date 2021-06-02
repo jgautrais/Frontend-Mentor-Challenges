@@ -17,3 +17,6 @@ A repo for Challenges solutions
 - Huddle landing page with curved sections : [fem_huddle_curved_sections](https://github.com/jgautrais/fem_huddle_curved_sections)
 - Chat App CSS Illustration : [fem_chat_app_css](https://github.com/jgautrais/fem_chat_app_css)
 
+### HTML, CSS & JS:
+
+- Faq Accordion card : [fem_faq_accordion_card](https://github.com/jgautrais/fem_faq_accordion_card)
