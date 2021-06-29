@@ -21,3 +21,4 @@ A repo for Challenges solutions
 
 - Faq Accordion card : [fem_faq_accordion_card](https://github.com/jgautrais/fem_faq_accordion_card)
 - Article Preview Component : [fem_article_preview_compo](https://github.com/jgautrais/fem_article_preview_compo)
+- Base Apparel Coming Soon Page : [fem_base_apparel](https://github.com/jgautrais/fem_base_apparel)
