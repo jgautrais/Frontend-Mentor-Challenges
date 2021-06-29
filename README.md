@@ -20,3 +20,4 @@ A repo for Challenges solutions
 ### HTML, CSS & JS:
 
 - Faq Accordion card : [fem_faq_accordion_card](https://github.com/jgautrais/fem_faq_accordion_card)
+- Article Preview Component : [fem_article_preview_compo](https://github.com/jgautrais/fem_article_preview_compo)
